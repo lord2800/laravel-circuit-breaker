@@ -15,10 +15,16 @@
             "email": "hellofrancesco@gmail.com",
             "homepage": "https://github.com/francescomalatesta",
             "role": "Developer"
+        },
+        {
+            "name": "Jeff Hubbard",
+            "email": "lord2800@gmail.com",
+            "homepage": "https://github.com/lord2800",
+            "role": "Developer"
         }
     ],
     "require": {
-        "php": "~7.1"
+        "php": "^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^3.6",
